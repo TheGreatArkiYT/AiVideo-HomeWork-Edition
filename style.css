@@ -9,6 +9,7 @@ body{
     border-color: white!important;
     height: 50px!important;
     margin-top: 0px;
+    border-bottom: transparent!important;
 }
 .instrcutions{
     float: right!important;
@@ -23,9 +24,16 @@ body{
 .spann{
     margin-top: 0px!important;
 }
-#success {
+#name {
     border-color: white!important;
-    background-color: transparent!important;  
+    background-color: transparent!important; 
+    color: white!important; 
+}
+#name2 {
+    border-color: white!important;
+    background-color: transparent!important; 
+    color: white!important; 
+    width: 250px;
 }
 #status {
     border-color: greenyellow!important;
