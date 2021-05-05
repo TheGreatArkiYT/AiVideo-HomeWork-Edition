@@ -1,0 +1,36 @@
+body{
+    background-size: cover;
+}
+.heading {
+    font-size: 25px!important;
+    width: 100%;
+    margin: 0px;
+    background-color: transparent!important;
+    border-color: white!important;
+    height: 50px!important;
+    margin-top: 0px;
+}
+.instrcutions{
+    float: right!important;
+    background-color: transparent!important;
+    border-color: greenyellow!important;
+
+}
+#start {
+    border-color: greenyellow!important;
+    background-color: transparent!important;
+}
+.spann{
+    margin-top: 0px!important;
+}
+#success {
+    border-color: white!important;
+    background-color: transparent!important;  
+}
+#status {
+    border-color: greenyellow!important;
+    background-color: transparent!important;
+}
+canvas {
+    border-color: greenyellow!important;
+}
